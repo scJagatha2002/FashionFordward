@@ -1,0 +1,9 @@
+[submodule "Resnet18_Model"]
+    path = Resnet18_Model
+    url = https://github.com/scJagatha2002/Resnet18_Model.git
+[submodule "Fashion_Forward_B"]
+    path = Fashion_Forward_B
+    url = https://github.com/scJagatha2002/Fashion_Forward_B.git
+[submodule "Fashion-Forward-Frontend"]
+    path = Fashion-Forward-Frontend
+    url = https://github.com/Vibha-K-Dattathri/Fashion-Forward-Frontend.git
